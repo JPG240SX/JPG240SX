@@ -30,6 +30,11 @@ class Cercle
     {
         return 2 * 3.14 * this.rayon;
     }
+
+    aire()
+    {
+        return 3.14 * (this.rayon ** 2);
+    }
 }
 
 /**
