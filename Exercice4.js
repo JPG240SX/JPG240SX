@@ -53,4 +53,4 @@ console.log("Perimètre cercle 1: " + cercle1.perimetre());
 console.log("Perimètre cercle 2: " + cercle2.perimetre());
 console.log("Aire cercle 1: " + cercle1.aire());
 console.log("Aire cercle 2: " + cercle2.aire());
-//console.log(point1);
+//commentaire: 
