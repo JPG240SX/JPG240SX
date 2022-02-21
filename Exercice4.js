@@ -45,4 +45,10 @@ var point2 = new point(5, 6);
 
 console.log("distance : " + point1.distance(point2));
 
+var cercle1 = new Cercle(point1, 1);
+var cercle2 = new Cercle(point2, 4);
+console.log("Perimètre cercle 1: " + cercle1.perimetre);
+console.log("Perimètre cercle 2: " + cercle2.perimetre);
+console.log("Aire cercle 1: " + cercle1.aire);
+console.log("Aire cercle 2: " + cercle2.aire);
 //console.log(point1);
