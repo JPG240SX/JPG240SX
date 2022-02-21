@@ -26,7 +26,10 @@ class Cercle
         this.rayon = rayon;
     }
 
-    
+    perimetre()
+    {
+        return 2 * 3.14 * this.rayon;
+    }
 }
 
 /**
